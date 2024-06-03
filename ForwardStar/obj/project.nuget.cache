@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b1XuP3dQf03EAJlxnVaEL56BIXHcYQYLFUqyMD9KoAGCdlds90etOC4mVQft0vU5iCh9Von6rZus4kmXXwHGUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jozef\\source\\repos\\IOA Zadanie\\IOA Zadanie\\IOA Zadanie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jozef\\.nuget\\packages\\optimizedpriorityqueue\\5.1.0\\optimizedpriorityqueue.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

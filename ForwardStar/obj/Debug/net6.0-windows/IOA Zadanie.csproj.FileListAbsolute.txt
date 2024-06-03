@@ -1,0 +1,19 @@
+C:\Users\jozef\source\repos\IOA Zadanie\IOA Zadanie\obj\Debug\net6.0-windows\IOA Zadanie.csproj.AssemblyReference.cache
+C:\Users\jozef\source\repos\IOA Zadanie\IOA Zadanie\obj\Debug\net6.0-windows\IOA_Zadanie.Form1.resources
+C:\Users\jozef\source\repos\IOA Zadanie\IOA Zadanie\obj\Debug\net6.0-windows\IOA Zadanie.csproj.GenerateResource.cache
+C:\Users\jozef\source\repos\IOA Zadanie\IOA Zadanie\obj\Debug\net6.0-windows\IOA Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jozef\source\repos\IOA Zadanie\IOA Zadanie\obj\Debug\net6.0-windows\IOA Zadanie.AssemblyInfoInputs.cache
+C:\Users\jozef\source\repos\IOA Zadanie\IOA Zadanie\obj\Debug\net6.0-windows\IOA Zadanie.AssemblyInfo.cs
+C:\Users\jozef\source\repos\IOA Zadanie\IOA Zadanie\obj\Debug\net6.0-windows\IOA Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\jozef\source\repos\IOA Zadanie\IOA Zadanie\bin\Debug\net6.0-windows\IOA Zadanie.exe
+C:\Users\jozef\source\repos\IOA Zadanie\IOA Zadanie\bin\Debug\net6.0-windows\IOA Zadanie.deps.json
+C:\Users\jozef\source\repos\IOA Zadanie\IOA Zadanie\bin\Debug\net6.0-windows\IOA Zadanie.runtimeconfig.json
+C:\Users\jozef\source\repos\IOA Zadanie\IOA Zadanie\bin\Debug\net6.0-windows\IOA Zadanie.dll
+C:\Users\jozef\source\repos\IOA Zadanie\IOA Zadanie\bin\Debug\net6.0-windows\IOA Zadanie.pdb
+C:\Users\jozef\source\repos\IOA Zadanie\IOA Zadanie\obj\Debug\net6.0-windows\IOA Zadanie.dll
+C:\Users\jozef\source\repos\IOA Zadanie\IOA Zadanie\obj\Debug\net6.0-windows\refint\IOA Zadanie.dll
+C:\Users\jozef\source\repos\IOA Zadanie\IOA Zadanie\obj\Debug\net6.0-windows\IOA Zadanie.pdb
+C:\Users\jozef\source\repos\IOA Zadanie\IOA Zadanie\obj\Debug\net6.0-windows\IOA Zadanie.genruntimeconfig.cache
+C:\Users\jozef\source\repos\IOA Zadanie\IOA Zadanie\obj\Debug\net6.0-windows\ref\IOA Zadanie.dll
+C:\Users\jozef\source\repos\IOA Zadanie\IOA Zadanie\bin\Debug\net6.0-windows\PriorityQueue.dll
+C:\Users\jozef\source\repos\IOA Zadanie\IOA Zadanie\obj\Debug\net6.0-windows\IOA Zadanie.csproj.CopyComplete
